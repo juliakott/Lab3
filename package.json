@@ -1,0 +1,19 @@
+{
+  "name": "rwasync",
+  "version": "1.0.0",
+  "description": "lab 3 sa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DaniilDenisyuk/software-architecture-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniilDenisyuk/software-architecture-course/issues"
+  },
+  "homepage": "https://github.com/DaniilDenisyuk/software-architecture-course#readme"
+}
